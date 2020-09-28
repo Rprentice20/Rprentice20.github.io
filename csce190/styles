@@ -1,16 +1,16 @@
 body {
     background:blue;
 }
-.assignment {
-    display:flex;
-    padding: 10px;
-    margin: 10px;
-    background: pink;
-}
-.assignment img{
-    width: 200px;
-    padding: 10px;
-}
+//.assignment {
+///    display:flex;
+    //padding: 10px;
+    //margin: 10px;
+    //background: pink;
+//}
+//.assignment img{
+  //  width: 200px;
+    //padding: 10px;
+//}
 h1{
     color: arkchid;
     text-align:center;
